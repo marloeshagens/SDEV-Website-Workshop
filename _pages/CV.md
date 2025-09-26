@@ -13,9 +13,14 @@ title: "CV"
 </div>
 -->
 
+Academic CV:
 
 <iframe src="../assets/Academic_CV_Marloes_Hagens.pdf" width="100%" height="800px" style="border: none;"></iframe>
 
-[Download here](../assets/Academic_CV_Marloes_Hagens.pdf)
+[Download my academic CV (pdf) here](../assets/Academic_CV_Marloes_Hagens.pdf)
 
+General Resume: 
 
+<iframe src="../assets/Resume_Marloes_Hagens.pdf" width="100%" height="800px" style="border: none;"></iframe>
+
+[Download my general resume here](../assets/Resume_CV_Marloes_Hagens.pdf)
