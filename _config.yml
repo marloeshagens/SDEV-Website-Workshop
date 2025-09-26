@@ -13,12 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Sean Reese #CHANGE THIS
-email: sean.reese@columbia.edu #CHANGE THIS
+title: Marloes Hagens #CHANGE THIS
+email: hagens@rsm.nl #CHANGE THIS
 description: >- # this means to ignore newlines until "baseurl:"
   [EDIT ME] BLAH BLAH BLAH BLAH #CHANGE THIS
 # twitter_username: 
-github_username: sean-reese #CHANGE THIS 
+github_username: marloeshagens #CHANGE THIS 
 minimal_mistakes_skin: dirt #CHANGE THIS
 search: false
 
