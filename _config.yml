@@ -56,7 +56,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Sean Reese" #CHANGE THIS
+  name   : "Marloes Hagens" #CHANGE THIS
   avatar : "/assets/images/smile.jpeg" #CHANGE THIS
   bio    : "PhD Student at Columbia University" #CHANGE THIS
   email  : "sean.reese@columbia.edu" #CHANGE THIS
