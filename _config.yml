@@ -63,7 +63,7 @@ author:
   links:
     - label: "Google Scholar"
       icon: "fas fa-fw fa-link"
-      url: "https://scholar.google.com/" #CHANGE THIS
+      url: "https://scholar.google.com/citations?user=tVAV7cIAAAAJ&hl=en&oi=ao" #CHANGE THIS
 #    - label: "Twitter"
 #      icon: "fab fa-fw fa-twitter-square"
 #      url: "https://twitter.com/"
