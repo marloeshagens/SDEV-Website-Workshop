@@ -16,10 +16,10 @@
 title: Marloes Hagens #CHANGE THIS
 email: hagens@rsm.nl #CHANGE THIS
 description: >- # this means to ignore newlines until "baseurl:"
-  [EDIT ME] BLAH BLAH BLAH BLAH #CHANGE THIS
+  Hi! My name is Marloes, nice to meet you. #CHANGE THIS
 # twitter_username: 
 github_username: marloeshagens #CHANGE THIS 
-minimal_mistakes_skin: contrast #CHANGE THIS
+minimal_mistakes_skin: air skin #CHANGE THIS
 search: false
 
 # Build settings
