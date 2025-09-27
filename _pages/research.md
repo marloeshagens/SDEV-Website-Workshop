@@ -18,7 +18,7 @@ title: "Research"
 ### Publications
 ---
 [Corrupted by Algorithms? How AI-generated and Human-written Advice Shape (Dis)honesty]([https://academic.oup.com/ej/article/134/658/766/7269206](https://academic.oup.com/ej/article/134/658/766/7269206)) - The Economic Journal (2023)
-<p style="font-size:12px;">(with Margarita Leib, Nils Köbis, Rainer Michael Rilke and Bernd Irlenbusch and Jen Burney)</p>
+<p style="font-size:12px;">(with Margarita Leib, Nils Köbis, Rainer Michael Rilke and Bernd Irlenbusch)</p>
 ![My photo]({{ "/assets/images/corrupted by ai fig.jpeg" | relative_url }}){: width="300"}
 <details>
   <summary>Abstract</summary>
@@ -29,6 +29,17 @@ title: "Research"
 ---
 
 Return To Nature: Biodiversity Loss And Global Stock Returns
+<p style="font-size:12px;">(with Mathijs van Dijk)</p>
+
+Small preview of our results: 
+![My photo]({{ "/assets/images/screemshot table biodiv.png" | relative_url }}){: width="300"}
+
+<details>
+  <summary>Abstract</summary>
+  <p style="font-size:12px;"> Biodiversity loss is increasingly recognised as a material risk for firms and investors. We examine whether biodiversity risk is priced in global equity markets using a tractable firm-level measure—grounded in the IPBES driver framework and S&P Trucost Environmental data—and an asset- and geospatial-based measure built on Key Biodiversity Areas, Protected Areas, and Critical Natural Assets. Our global panel covers 12,288 firms across 58 countries from 2009 to 2022. Results show that biodiversity risk matters, but pricing depends on the level of variation. Within firms, higher risk predicts lower returns and profitability, consistent with negative cash flow effects. By contrast, within-industry risk is positively related to returns and profitability, consistent with a biodiversity risk premium. The asset- and geospatial measure further shows that firms with risky assets in biodiversity-sensitive areas earn higher returns. This study contributes to a more nuanced understanding of biodiversity risk in asset pricing and offers new directions for climate and nature finance research. </p>
+  
+</details>
+
 
 <!--
 Which 30? Operationalizing the 30x30 Initiative
