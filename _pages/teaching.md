@@ -3,17 +3,26 @@ permalink: /Teaching/
 title: "Teaching"
 ---
 
-### Columbia
+### Erasmus University Rotterdam, Rotterdam School of Management
 ---
-* Teaching Assistant (Master's)
-   * Fundamentals of Environmental Economics [Fall 2025]
-* Teaching Assistant (Undergraduate)
-   * Globalization and its Risks [Spring 2025]
-   * Science for Sustainable Development [Fall 2024]
+* Teacher (Master's)
+   * Investments [S1 2022, S1 2023, S1 2024]
+   * Thesis supervision [S2 2023, S2 2024, S2 2025, S2 2026]
+* Teacher (Undergraduate)
+   * Thesis supervision [S2 2023]
+ * Teaching Assistant (Undergraduate)
+   * Finance [S2 2022, S2 2023]
 
-### UC San Diego
+### University of Amsterdam, Amsterdam School of Economics
 ---
 * Teaching Assistant (Master's)
-   * Policy Analysis and Decision Theory [Spring 2024]
-   * Fundamentals of Energy Systems and Innovation [Winter 2023]
-   * GIS and Spatial Data Analysis [Fall 2023]
+   * Macroeconomics [2021]
+
+<!--
+### Self-employed
+---
+* Teacher
+   * Statistics [YEAR]
+* Coach
+   * Thesis [YEAR]
+-->
