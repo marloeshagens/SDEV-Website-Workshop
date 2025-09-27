@@ -30,7 +30,9 @@ title: "Research"
 
 Return To Nature: Biodiversity Loss And Global Stock Returns
 
+<!--
 Which 30? Operationalizing the 30x30 Initiative
 
 Breeding Fish Breeds Risk: Aquaculture and Dengue in Bangladesh
 <p style="font-size:12px;">(with Seung Min Kim)</p>
+-->
