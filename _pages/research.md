@@ -6,7 +6,7 @@ title: "Research"
 
 ### Working Papers
 ---
-[Thirsty for Returns? The Impact of Water Risk on the Global Stock Market]([https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5319128](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5319128)) - The Economic Journal (2023)
+[Thirsty for Returns? The Impact of Water Risk on the Global Stock Market]([https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5319128](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5319128)) - SSRN (June, 2025)
 <p style="font-size:12px;">(with Romulo Alves, Thalassa De Waal, Eline ten Bosch, and Mathijs van Dijk)</p>
 ![My photo]({{ "/assets/images/screenshot fig water stress per industry.png" | relative_url }}){: width="300"}
 <details>
